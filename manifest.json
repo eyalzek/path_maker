@@ -9,8 +9,12 @@
   },
 
   "permissions": [
-  	"tabs",
-  	"activeTab"
+    "http://www.google.com/maps",
+    "https://www.google.com/maps",
+    "http://www.google.co.il/maps",
+    "https://www.google.co.il/maps",
+  	"activeTab",
+    "tabs"
   ],
 
   "page_action": {
